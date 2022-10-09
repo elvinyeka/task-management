@@ -17,6 +17,12 @@
       "name": "Shopping",
       "isActive": false,
       "id": 4
+    },
+    {
+      "color": "#3498db",
+      "name": "new ",
+      "isActive": false,
+      "id": 5
     }
   ],
   "todos": [
@@ -55,6 +61,12 @@
       "listId": 4,
       "title": "buy food",
       "completed": false
+    },
+    {
+      "id": 0.9658161278098798,
+      "listId": 5,
+      "title": "new task",
+      "completed": true
     }
   ],
   "colors": [

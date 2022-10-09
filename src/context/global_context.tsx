@@ -1,7 +1,6 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
 import axios from "axios";
-import { v4 as uuidv4 } from "uuid";
-import { AppContextType, IMenuColors, IMenuItems, ITodo } from "../types/data";
+import { AppContextType, IMenuColors, IMenuItems } from "../types/data";
 import { useLocation, useNavigate } from "react-router-dom";
 
 const url = "http://localhost:3001";

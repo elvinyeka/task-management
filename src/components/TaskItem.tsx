@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useGlobalContext } from "../context/global_context";
+
 import { ITodo } from "../types/data";
 import { CheckSVG, DeleteSVG, EditSVG } from "./svgIcons";
 

@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { AiFillFolder } from "react-icons/ai";
 import { Link, useLocation } from "react-router-dom";
 import { useGlobalContext } from "../context/global_context";

@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
+import { Link } from "react-router-dom";
 import { MdPlaylistAdd } from "react-icons/md";
 
 import TaskItem from "./TaskItem";
@@ -6,7 +7,6 @@ import { EditSVG } from "./svgIcons";
 import { IMenuItems } from "../types/data";
 import { useGlobalContext } from "../context/global_context";
 import AddTask from "./AddTask";
-import { Link } from "react-router-dom";
 
 interface ITasksProps {
   list: IMenuItems;
