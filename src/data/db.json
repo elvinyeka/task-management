@@ -1,0 +1,94 @@
+{
+  "lists": [
+    {
+      "color": "#3498db",
+      "name": "Reading book",
+      "isActive": false,
+      "id": 1
+    },
+    {
+      "color": "#d63031",
+      "name": "Learning course",
+      "isActive": false,
+      "id": 3
+    },
+    {
+      "color": "#e84393",
+      "name": "Shopping",
+      "isActive": false,
+      "id": 4
+    }
+  ],
+  "todos": [
+    {
+      "id": 0.524436173912878,
+      "listId": 1,
+      "title": "new book",
+      "completed": true
+    },
+    {
+      "id": 0.7195481736188079,
+      "listId": 3,
+      "title": "react+ redux thunk",
+      "completed": false
+    },
+    {
+      "id": 0.8114213404408253,
+      "listId": 3,
+      "title": "redux toolkit",
+      "completed": false
+    },
+    {
+      "id": 0.08852271788844512,
+      "listId": 3,
+      "title": "two project practice",
+      "completed": false
+    },
+    {
+      "id": 0.4189188117998994,
+      "listId": 3,
+      "title": "smilga react",
+      "completed": false
+    },
+    {
+      "id": 0.0555967743208956,
+      "listId": 4,
+      "title": "buy food",
+      "completed": false
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#27ae60"
+    },
+    {
+      "id": 2,
+      "hex": "#3498db"
+    },
+    {
+      "id": 3,
+      "hex": "#e84393"
+    },
+    {
+      "id": 4,
+      "hex": "#00cec9"
+    },
+    {
+      "id": 5,
+      "hex": "#d63031"
+    },
+    {
+      "id": 6,
+      "hex": "#EAB543"
+    },
+    {
+      "id": 7,
+      "hex": "#222f3e"
+    },
+    {
+      "id": 8,
+      "hex": "#cd6133"
+    }
+  ]
+}
